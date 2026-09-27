@@ -1,0 +1,13 @@
+Debug/
+Release/
+__vm/
+Visual Micro/
+*.atsuo
+*.b#*
+*.s#*
+*.bak
+*.hex
+*.elf
+*.eep
+Thumbs.db
+~$*
